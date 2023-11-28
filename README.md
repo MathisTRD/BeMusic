@@ -1,2 +1,2 @@
 # BeMusic
-This is a beReal clone, but instead of sharing daily photos, one presents his daily favourite song to his friends. 
+BeMusic is a social media platform that allows users to share their favorite music with their friends and followers.
